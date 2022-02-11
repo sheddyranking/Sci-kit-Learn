@@ -9,5 +9,7 @@ Machine learnig deals with Numerical or quantitative factors, so to be able to h
 [This book is great] and [This book was so bad] = [this,book,is,great,was,so,bad] this are the words and the rule will be #[1,1,1,1,0,0,0]
 
 
-## ReviewContainer
-In other to evenly distribute the dataSet[POSITIVE,NUETRAL,NEGATIVE] we created a of Reviewcontainer class that we call evenly distribute Methods that we even out our training data and test data 
+## Improvement on our Model
+
+### ReviewContainer
+In other to evenly distribute the dataSet[POSITIVE,NEGATIVE] we created a of Reviewcontainer class that we call evenly distribute Methods that we even out our training data and test data equally
