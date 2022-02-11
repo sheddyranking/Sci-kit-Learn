@@ -12,4 +12,9 @@ Machine learnig deals with Numerical or quantitative factors, so to be able to h
 ## Improvement on our Model
 
 ### ReviewContainer
-In other to evenly distribute the dataSet[POSITIVE,NEGATIVE] we created a of Reviewcontainer class that we call evenly distribute Methods that we even out our training data and test data equally
+In other to evenly distribute the dataSet[POSITIVE,NEGATIVE] we created a of Reviewcontainer Class that we call evenly distribute Methods that we even out our training data and test data equally. 
+
+### Increasing Numerical Features
+We replaced the CountVectorize() method in bag of words with TfidfVectorizer() in other to increase the models performace.
+
+### Turning our Model (with grid search)
