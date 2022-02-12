@@ -18,3 +18,4 @@ In other to evenly distribute the dataSet[POSITIVE,NEGATIVE] we created a of Rev
 We replaced the CountVectorize() method in bag of words with TfidfVectorizer() in other to increase the models performace.
 
 ### Turning our Model (with grid search)
+With the GridSearchCV() method you could increase the kernel rating by turning the model
