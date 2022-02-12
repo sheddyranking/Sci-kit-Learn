@@ -19,3 +19,6 @@ We replaced the CountVectorize() method in bag of words with TfidfVectorizer() i
 
 ### Turning our Model (with grid search)
 With the GridSearchCV() method you could increase the kernel rating by turning the model
+
+### Others
+you can also diverse so many ways in improving your models such removing PUNTUATION marks and all that. for example [good!, good] these two words shouldn't be treated the same. 
